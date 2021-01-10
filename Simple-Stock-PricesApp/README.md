@@ -1,5 +1,5 @@
 # Simple Stock Price
-Simple web app to visualize a price and volume of selected stock scrapy of yahoofinance
+Simple WebApp created with streamlit and python to visualize a price and volume of selected stock scrapy of https://finance.yahoo.com/
 
 
 ![](GyMsQ3PKk3.gif)
